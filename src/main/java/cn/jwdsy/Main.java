@@ -19,5 +19,6 @@ public class Main {
 			Integer integer = integers.get(i);
 			iMap.put(integer.toString(), integer);
 		}
+		System.err.println("new Add");
 	}
 }
