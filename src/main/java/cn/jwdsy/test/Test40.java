@@ -10,5 +10,8 @@ public class Test40 {
 		System.err.println("33333333333333");
 		System.err.println("4444444444444");
 		System.err.println("5555555555555555");
+		System.err.println("6666666666");
+		System.err.println("77777777");
+		System.err.println("8888888");
 	}
 }
