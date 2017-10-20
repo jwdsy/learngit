@@ -6,5 +6,6 @@ package cn.jwdsy.test;
 public class BaseOnMaster {
 	public static void main(String[] args) {
 		System.err.println("base on master");
+		System.err.println("33333333333");
 	}
 }
